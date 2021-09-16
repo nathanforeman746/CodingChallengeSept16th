@@ -1,0 +1,41 @@
+h1 {
+    color: lightgreen;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: red;
+    
+}
+
+body {
+    border: 6px solid black;
+    border-radius: 55px;
+    background-color: grey;
+    bottom: 75px;
+} 
+
+.wrapper {
+    background-color: lightgray;
+    border: 2px dotted black;
+    border-radius: 250px;
+    text-align: center;
+}
+
+.wrapper2 {
+    background-color: lightgray;
+    border: 2px ridge black;
+    border-radius: 300px;
+    text-align: center;
+}
+
+.wrapper3 {
+    background-color: lightgray;
+    border: 2px dotted black;
+    border-radius: 200px; 
+    text-align: center;
+}
