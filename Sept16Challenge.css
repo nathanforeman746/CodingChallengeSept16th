@@ -21,21 +21,21 @@ body {
 
 .wrapper {
     background-color: lightgray;
-    border: 2px dotted black;
+    border: 2px dotted gray;
     border-radius: 250px;
     text-align: center;
 }
 
 .wrapper2 {
     background-color: lightgray;
-    border: 2px ridge black;
+    border: 2px ridge gray;
     border-radius: 300px;
     text-align: center;
 }
 
 .wrapper3 {
     background-color: lightgray;
-    border: 2px dotted black;
+    border: 2px dotted gray;
     border-radius: 200px; 
     text-align: center;
 }
